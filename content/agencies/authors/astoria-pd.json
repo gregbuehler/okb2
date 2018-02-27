@@ -1,10 +1,10 @@
 {
   "id": "astoria-pd",
   "name": "Astoria Police Department",
-  "image": "/logos/agency/",
+  "image": "/logos/agency/astoria-pd.png",
   "url": "http://astoria.or.us/dept/Police_Department",
-  "officers": "16",
-  "population": "9516",
+  "officers": 16,
+  "population": 9516,
   "chief": "Brad Johnston",
   "location": "Astoria",
   "county": "Clatsop",

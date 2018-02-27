@@ -1,10 +1,10 @@
 {
   "id": "baker-pd",
   "name": "Baker City Police Department",
-  "image": "/logos/agency/",
+  "image": "/logos/agency/baker-pd.png",
   "url": "http://www.bakercity.com/2169/Police-Department",
-  "officers": "15",
-  "population": "9769",
+  "officers": 15,
+  "population": 9769,
   "chief": "Wyn Lohner",
   "location": "Baker City",
   "county": "Baker",

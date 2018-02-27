@@ -1,10 +1,10 @@
 {
   "id": "aumsville-pd",
   "name": "Aumsville Police Department",
-  "image": "/logos/agency/",
+  "image": "/logos/agency/aumsville-pd.png",
   "url": "http://www.aumsville.us/police-department.html",
-  "officers": "6",
-  "population": "3812",
+  "officers": 6,
+  "population": 3812,
   "chief": "Richard Schmitz",
   "location": "Aumsville",
   "county": "Marion",

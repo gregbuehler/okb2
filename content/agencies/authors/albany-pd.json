@@ -1,10 +1,10 @@
 {
   "id": "albany-pd",
   "name": "Albany Police Department",
-  "image": "/logos/agency/",
+  "image": "/logos/agency/albany-pd.png",
   "url": "https://www.cityofalbany.net/departments/police",
-  "officers": "62",
-  "population": "51583",
+  "officers": 62,
+  "population": 51583,
   "chief": "Mario Lattanzio",
   "location": "Albany",
   "county": "Linn",
