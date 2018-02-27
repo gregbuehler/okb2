@@ -1,6 +1,6 @@
 module.exports = {
   blogPostDir: "posts", // The name of directory that contains your posts.
-  blogAuthorDir: "authors", // The name of directory that contains your authors.
+  blogAuthorDir: "agencies", // The name of directory that contains your authors.
   blogAuthorId: "okb", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Oregon Knowledge Bank", // Site title.
   siteTitleAlt: "OKB Local Public Safety Resource", // Alternative site title for SEO.
