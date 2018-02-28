@@ -4,12 +4,12 @@
   "image": "/logos/agency/port-of-portland.png",
   "url": "https://www2.portofportland.com/PDX/PoliceDepartment",
   "officers": 49,
-  "population": 0,
-  "chief": "",
+  "population": "--",
+  "chief": "--",
   "location": "Portland",
   "county": "Multnomah",
-  "region": "Metro"
-  "bio": "",
+  "region": "Metro",
+  "bio": "---",
   "socialUrls": [
     "",
     "",

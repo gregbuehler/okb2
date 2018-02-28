@@ -5,11 +5,11 @@
   "url": "http://www.ci.oakridge.or.us/general/page/police",
   "officers": 5,
   "population": 3196,
-  "chief": "",
+  "chief": "--",
   "location": "Oakridge",
   "county": "Lane",
   "region": "Willamette Valley",
-  "bio": "",
+  "bio": "---",
   "socialUrls": [
     "",
     "",
