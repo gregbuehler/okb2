@@ -1,7 +1,7 @@
 ---
 title: "Jackson County Day Reporting - Managing"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "jackson-dcj"
 date: "12/04/2015"
 category: "Correctional"
 tags:

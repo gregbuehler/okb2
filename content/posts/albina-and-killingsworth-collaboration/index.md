@@ -1,7 +1,7 @@
 ---
 title: "The Albina and Killingsworth Collaboration"
 cover: "/logos/policing.png"
-author: "okb"
+author: "ppb"
 date: 2015-09-22
 slug: "albina-killingsworth-collaboration"
 category: "Policing"

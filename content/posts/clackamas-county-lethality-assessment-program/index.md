@@ -10,15 +10,17 @@ tags:
     - Victims 
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 No specific criteria existed for assessing the potential risk to domestic violence victims that was available for deputies interacting with domestic violence victims. Although all victims are provided with written information by law enforcement first responders, many high-risk domestic violence victims were not being immediately connected with local domestic violence resources.
 Impact on the Community
 
 Studies have shown only 4% of abused victims had used a domestic violence hotline or shelter within the year prior to being killed by an intimate partner. In Clackamas County, high-risk victims were not readily identified and at the scene of a domestic violence incident were not immediately connected with community domestic violence resources that could increase safety for them and for their children.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 The Lethality Assessment Program (LAP) is a collaborative effort to prevent domestic violence homicides, serious injury, and re-assault by encouraging more victims to utilize the support and shelter services of domestic violence programs. The LAP protocol provides immediate assistance to all domestic violence victims who fit the assessment criteria. Personnel from Clackamas County Sheriff’s Office and Clackamas Women’s Services offer counseling and available services at the scene of a domestic dispute and follow up with the victims to ensure they are receiving services designed to protect them and their families.
@@ -34,7 +36,9 @@ The initial cash outlay for the program was minimal, mostly covering supplies an
 The current cost to operate the program consists of costs for deputy personnel to complete the Lethality Screen with the victim, the costs involved in staffing the CWS hotline, the CWS and DVERT staff who follow up with victims, and personnel costs for program tracking. The Clackamas County Domestic Violence Enhanced Response Team personnel from the Clackamas County Sheriff’s Office were already in place and are currently funded and house at A Safe Place, the Clackamas County Family Justice Center. The approximately $12,000 per year costs for the LAP are now absorbed in the regular operating budgets of the Clackamas County Sheriff’s Office and CWS.
 
 The program received initial grant funding in the amount of $25,000 from the Clackamas County Children, Youth and Families Division. $10,000 of the initial grant funding was used by CWS to increase hotline support staffing and for housing and other victim resources. The grant also partially funded a law enforcement domestic violence victim advocate position, which was later fully funded by the Clackamas County Sheriff’s Office.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
 Over the first three and a half years of the program, 789 victims “screened in” using the risk assessment tool and 271 victims were “screened in” based on the responding deputy’s assessment. 518 of these victims agreed to immediately speak with a CWS hotline advocate.

@@ -1,7 +1,7 @@
 ---
 title: "Adult Sex Offender Program"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "linn-cc"
 contact: "Jane Doe"
 email: "test@email.com"
 date: "2015-11-18"
