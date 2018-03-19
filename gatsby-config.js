@@ -2,6 +2,32 @@ const config = require("./data/SiteConfig");
 
 const pathPrefix = config.pathPrefix === "/" ? "" : config.pathPrefix;
 
+const query = `{
+  allSitePage {
+    edges {
+      node {
+        objectID: id
+        component
+        path
+        componentChunkName
+        jsonName
+        internal {
+          type
+          contentDigest
+          owner
+        }
+      }
+    }
+  }
+}`;
+
+const queries = [
+  {
+    query,
+    transformer: ({ data }) => data.allSitePage.edges.map(({ node }) => node),
+  },
+];
+
 module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
@@ -18,6 +44,16 @@ module.exports = {
     }
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-algolia`,
+      options: {
+        appId: 'V96W9H8OQK',
+        apiKey: '7d731b3e360b72a2a35d68f43203aa23',
+        indexName: 'test_OKB',
+        queries,
+        chunkSize: 10000, // default: 10000
+      }
+    },
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-source-filesystem",
