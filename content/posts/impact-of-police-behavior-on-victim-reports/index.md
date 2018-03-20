@@ -10,13 +10,16 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 COMMUNITY NEED
 
 Although it is perceived by many that police are the gatekeepers of the criminal justice system, victims - who decide whether to officially report crimes - actually control mobilization of the criminal justice system. Since victims serve as the first major decision maker in the criminal justice process, understanding the factors that influence victim reporting behavior is an important criminological endeavor.
 RESPONSE
 
 The study explores the issue of victim reporting in the context of domestic violence victimization. Of particular interest is whether a relationship exists between the victim’s assessment of police behavior during a previous domestic violence encounter and the likelihood that she will report subsequent victimizations.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 PRIMARY RESEARCH QUESTION
 
 The study examines two common hypotheses about how police behavior may impact victim attitude or expectations, which in turn impact reporting.

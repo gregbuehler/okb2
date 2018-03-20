@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 By understanding the factors that drive illegal drug market locations, police can better focus their resources to reduce crime. This study aims to identify the key geographic factors that explain the locations of illegal drug markets. In order to exclude drug offenders from sensitive areas where drug dealing was common in the past, “drug free zones” have been implemented as a strategy that fights crime through a geographic lens. This study also examines the efficacy of drug free zones in Portland from 1990-1998.

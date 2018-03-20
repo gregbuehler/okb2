@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Oregon’s bail reform movement led to legislation about pretrial release that took effect in 1974. Lane County’s program began in early 1975 with the hire of one release officer. The program grew over the years as people recognized the need to help control the jail population. With the use of a risk-assessment tool, defendants who pose the lowest risk to other people are released with the least onerous conditions possible, to help ensure their appearance in court and the safety of alleged victims and the community.

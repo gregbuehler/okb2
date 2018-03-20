@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 The shifts necessary for adequate police coverage often work against the body’s natural sleep cycle, leaving officers fatigued. In turn, this can adversely affect officers’ ability to effectively handle the challenging situations encountered daily in the line of duty, impacting officer safety, health, and public interactions. Researchers found that a large contributor to fatigue is non-supervisory officers working on average 15 to 40 hours of overtime a month, some even averaging over 80 hours of overtime a month. Severe levels of fatigue have been shown to cause impairment that is equivalent to a BAC of 0.05% and even 0.10%.

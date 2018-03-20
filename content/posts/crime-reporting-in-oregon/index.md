@@ -8,19 +8,23 @@ tags:
     - Community Relations 
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 Local news media devote extensive coverage to individual criminal events, particularly crimes that involve atypical victims and offenders or severe acts of violence. Exposure to incident-based crime reporting commonly leads the public to an inaccurate assessment of crime facts, fear that is disproportionate to actual victimization rates, and increased support for punitive sanctions with offenders. There are other aspects of criminal justice news coverage that may have greater value for citizens, including reports on crime prevention, crime trends, the underlying factors that contribute to crime, and efforts by the community and police to reduce offending. Understanding how the public perceives crime reporting can help public safety agencies develop effective communications strategies.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
+
 Research Question
 
 How do people feel about crime reporting in Portland, Oregon?
 Research Design
 
 Data for the current report were drawn from the 2012 Portland Criminal Justice Survey conducted by the Criminal Justice Policy Research Institute at Portland State University. A multi-stage sampling procedure was used for the survey. Households were mailed: a postcard alerting them to the forthcoming survey, then the survey instrument, a reminder postcard, and then a final reminder. Residents were asked to have the adult with the most recent birthday complete the survey. Researchers received 2,461 completed surveys for an overall response rate of 42.2%.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Findings
 
     Three quarters of adults in Portland watch the local TV news and/or read the area’s major newspaper on a regular basis.

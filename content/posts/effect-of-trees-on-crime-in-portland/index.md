@@ -9,10 +9,13 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 Research has shown that urban trees provide a range of benefits to communities, including moderating storm-water runoff, reducing heating and cooling costs, and increasing property values. However, less attention has been focused on the potential of urban trees to affect another important determinant of urban quality of life: crime occurrence. Results from studies that have looked at the effect of trees and other vegetation on crime have been mixed; some have shown that vegetation can increase fear of crime whereas others have shown that it can reduce the fear of crime or crime occurrence. The goal of this study is to evaluate the effects of different types of vegetation on crime in Portland, Oregon, while accounting for other relevant variables.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Primary Research Question
 
 What is the relationship between trees and crime? Specifically, is vegetation on a property associated with higher or lower crime rates?

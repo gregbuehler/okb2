@@ -9,13 +9,16 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 In Linn County, middle school–age youth who have served time on probation and had difficulties in several areas were apparently not receiving any transitional services when they entered high school. This meant that students entering high school with known barriers to academic success and graduation were not provided relevant services. System actors seemed to wait until young people failed and were behind before providing the extra supports that could have prevented the failure in the first place.
 Impact on the Community
 
 Research indicates that youth who are successful in school are much less likely to engage in delinquent behavior. The main goal of this project is to increase school connectedness and high school graduation rates.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 The Linn County Eighth Grade Transition Program has these components:

@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Over the past several years, Klamath County Community Corrections identified a number of offenders who are involved in multigenerational criminality (i.e., successive generations engage in criminal behavior). Many of these offenders have children (either biological or through a relationship with someone who has children). The Department of Human Services (DHS), Child Welfare, is often involved with these cases, though DHS is often not involved. In these cases, parole and probation officers (PPO) recognize that the family could be at risk or identify barriers that interfere with the offender’s ability to provide pro-social parenting. Klamath County Community Corrections also recognized that as an office it did not engage victims in the supervision process or provide information to crime victims. Families of offenders and victims both needed better service.

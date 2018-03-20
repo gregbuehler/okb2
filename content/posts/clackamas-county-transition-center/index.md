@@ -10,8 +10,8 @@ tags:
     - Reentry
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Every year, 350 people are released from the Department of Corrections to Clackamas County. Another 13,000 are released from the Clackamas County Jail, many with little to no prerelease intervention, assessment, or planning. Whether leaving jail or prison, these offenders often face similar challenges accessing treatment, finding housing and employment, and obtaining health care services. Without prerelease intervention and a warm handoff to the community, these individuals are less likely to successfully transition and more likely to commit new crimes.

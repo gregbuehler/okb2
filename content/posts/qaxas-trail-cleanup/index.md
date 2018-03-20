@@ -10,8 +10,6 @@ tags:
     - Quality of Life  
 ---
 
-# Qaxas Trail Cleanup
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 Problematic Behavior or Activity

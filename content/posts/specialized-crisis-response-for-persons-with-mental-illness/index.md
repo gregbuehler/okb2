@@ -8,8 +8,6 @@ tags:
     - Mental Illness 
 ---
 
-# Specialized Crisis Response for Persons with Mental Illness
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 Community Need

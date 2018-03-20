@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 In 2014, more than 34,000 people died in the United States because of impaired or intoxicated driving incidents. The annual cost associated with such incidents is estimated to be over $125 billion. Many people who are charged and convicted of driving while impaired or intoxicated are repeat offenders. The traditional court process and typical sentencing scheme (that is, receive a sentence and leave the court environment) does not seem to help many people change their behavior or reduce recidivism rates.

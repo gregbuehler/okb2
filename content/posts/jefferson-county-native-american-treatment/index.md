@@ -11,6 +11,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Based on data provided by the Oregon Criminal Justice Commission, arrest rates among Native Americans in Jefferson County have been disproportionately high. Among Native Americans involved in the criminal justice system, many struggle with addiction issues that could be categorically defined as chronic and severe.

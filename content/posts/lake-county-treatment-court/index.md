@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Lake County is a large geographical area with a small population. Per capita, the county has significant illicit substance use; this and related issues drive much of the area’s criminal activity.

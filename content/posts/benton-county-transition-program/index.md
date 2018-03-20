@@ -1,7 +1,7 @@
 ---
 title: "Benton County Transition Program"
 cover: "/logos/correctional.png"
-author: "benton"
+author: "okb"
 date: "07/18/2016"
 slug: "benton-transition-program"
 category: "Correctional"

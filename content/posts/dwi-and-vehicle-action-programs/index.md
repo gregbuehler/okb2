@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 For most of the last century, suspension of the driver’s license has been the most feared and the most effective method of reducing recidivism and crash involvement of drivers convicted of driving while impaired (DWI) or driving under the influence (DUI). Today, nearly all DUI offenders receive driver license suspensions as a penalty. However, driving while suspended (DWS) laws are difficult to enforce because the driver’s license can only be checked when the police stop the vehicle for another traffic offense. Studies of suspended offenders suggest that 75% drive while suspended.

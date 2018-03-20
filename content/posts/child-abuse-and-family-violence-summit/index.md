@@ -11,8 +11,8 @@ tags:
     - Training
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 While working child abuse and child homicide cases, then-Detective Craig Roberts felt there was a void in communication and training for first responders and professionals in dealing with these crimes. The challenge became how to get all of these individuals together to begin the conversation of protecting children and those most vulnerable in our society. Specifically, how do you get law enforcement personnel, prosecutors, social workers, physicians, protective services, and educators all to the table?

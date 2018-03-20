@@ -10,10 +10,13 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 Perpetrators of domestic violence (DV) often repeat their offenses with the same or a different intimate partner. Multnomah County’s Domestic Violence Enhanced Response Team (DVERT) addresses the issue of recidivism by identifying high risk victims and providing them with coordinated multiagency services (e.g., advocacy in criminal and civil proceedings, crisis intervention, counseling, home visitation, witness notification). Offenders from these cases receive additional attention by local law enforcement, probation and parole, and prosecutors. The goal of these efforts is to hold the offenders accountable for their actions. Very little is known locally or nationally about the impact of enhanced case management for high risk DV victims and offenders.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Primary Research Question
 
 Do DV offenders, and indirectly their victims, selected for DVERT’s enhaned case management have lower recidivism rates than similar offenders who do not participate in DVERT?

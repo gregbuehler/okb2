@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 The Pretrial Release Office at the Jackson County Circuit Court was fully eliminated in 2012. Since the elimination of the Office there have been many forced releases, 1258 in 2014, due to the jail reaching its capacity. The Jackson County jail population is comprised of 65% pre-trial defendants.

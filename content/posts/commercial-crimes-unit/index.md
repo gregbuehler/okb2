@@ -11,15 +11,17 @@ tags:
     - Trespass
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 A review of crime statistics in the City of Tigard showed a disparity: The bulk of reported crimes occurred along business corridors and police responded more frequently to areas of the city associated with businesses than to any other section of the community. In addition, cold cases were less likely to be solved and measures were less often taken to reduce the frequency of calls in this segment of the city. Although most police services were being provided in business areas, the majority of funding for these services came from the city’s general fund.
 Impact on the Community
 
 Crime affecting businesses has a broad impact on the community as a whole. The losses companies sustain can lead to increased costs to customers, staff reductions, a reluctance to expand operations, and difficulty attracting new businesses to the area. And because the crimes are against companies and not individuals, law enforcement in Tigard have found that the problem is harder to solve and personnel are often hesitant to report these crimes for fear that no one will be held responsible.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 The Tigard Police Department believes that its Commercial Crimes Unit (CCU) is unlike any other crime-fighting unit in the United States. It is uniquely funded through the city’s business licensing fees and consists of four full-time police officers (three investigators and a supervisor). The CCU provides dedicated service to local merchants and area businesses to investigate and address the types of crimes that impact their bottom line. The unit investigates substantial losses through theft or fraud, addresses repeat problems through proactive problem-solving projects or target-hardening suggestions, provides workplace safety and active threat trainings, and conducts networking and information-sharing opportunities with its business partners. Part of the Tigard Police Department’s mission is to create the highest level of livability possible; the CCU works with the business community toward that end.

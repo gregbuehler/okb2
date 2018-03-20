@@ -9,15 +9,17 @@ tags:
     - Crisis Intervention (CIT)
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Surveys conducted in our jail showed that up to 37% of the population was reporting having mental health issues. We were spending more than $30,000 a month on medications. At least half of the medications were psychotropic medications. The arresting agencies in our jurisdiction were encountering a large number of people in crisis in the field who needed to go to the hospital and sometimes ended up going to jail. In 2006 our jail bookings were almost 20,000 per year.
 Impact on the Community
 
-With the number of people in crisis in the community increasing, we saw an increase in jail bookings and hospital admissions. 
+With the number of people in crisis in the community increasing, we saw an increase in jail bookings and hospital admissions.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 The Crisis Outreach Response Team (CORT) is made up of one deputy, one mental health professional, and a part-time data entry position. The team collects police reports from all of the arresting agencies in the county that involved someone in crisis or who identified with mental health issues. The team will prioritize follow-ups with individuals who did not go to the hospital or jail and were not violent with the police. Once contact is made, the team will attempt to connect the person with appropriate resources to help avoid a crisis and minimize police contact. CORT hosts training twice a year for first responders in our area. We offer Crisis Intervention Team training based on the Memphis model. We have hosted this training since 2006. As of April 2015, we have been able to train 484 first responders.

@@ -10,8 +10,8 @@ tags:
     - Crime Prevention
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 COMMUNITY NEED
 
 A number of organizations, including the Portland Mayor's Office and the Portland Police Bureau, were concerned with finding effective solutions to burglaries and robberies along Union Avenue in Portland, OR. As a result, the Union Avenue Corridor was chosen to be the site of a demonstration project for a Crime Prevention Through Environmental Design (CPTED) project. The purpose of this study is to evaluate the effectiveness of CPTED strategies and provide information on the planning and implementation of a CPTED project.

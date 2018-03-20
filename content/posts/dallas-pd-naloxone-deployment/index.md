@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Prescribed and illicit use of opiates is on the rise across the United States and in most communities in Oregon. With this increased use comes an increase in deaths from intentional and accidental overdose. Agencies in Oregon and throughout the country are having success in mitigating overdose death and injuries through rapid deployment of naloxone—which can reverse the effects of opiates—by police officers. Police officers are often able to arrive and administer the drug before medics can.

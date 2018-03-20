@@ -10,10 +10,13 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 More than 200,000 Oregonians spend time in a correctional facility every year, many of whom suffer from untreated chronic illness, disease, mental health, and/or substance abuse disorders. Between 70% and 90% of justice-involved adults were uninsured before the implementation of the Affordable Care Act (ACA). Although these individuals are now eligible for health insurance, many still face complex barriers to health insurance enrollment and access to care. Low levels of health literacy, the tendency to utilize emergency room services over a primary care provider (PCP), and delays in coverage due to confusion upon release from coverage results in a lack of adequate health care.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 The Health Assessment and Treatment (HAT) team is a coordinated effort between the Department of Community Justice (DCJ) and the Multnomah County Health Department aimed at improving access to health care by connecting adults involved in the criminal justice system with community based support services and providers.

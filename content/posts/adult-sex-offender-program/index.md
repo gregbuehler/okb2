@@ -11,7 +11,6 @@ tags:
     - Sex Offenders
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 ### Problematic Behavior or Activity
@@ -21,7 +20,6 @@ Managing convicted sex offenders in the community poses extremely difficult chal
 ### Impact on the Community
 
 No other category of crime evokes more fear and public outrage than sex offenses, and few communities want convicted sex offenders living in their area. However, the majority of known sex offenders are not in prison, and most of those who are will eventually be released.
-
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
@@ -47,7 +45,6 @@ When a client is ready for discharge, a closure meeting is scheduled to address 
 
 The contract for sex offender therapy is $3,000/month and the cost of the program per offender is $150.
 
-
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
 ### Program Impact
@@ -69,7 +66,8 @@ A multi-disciplinary approach is essential to the treatment of individuals who h
 
 ---
 
-#### Program Submitted by 
+#### Program Submitted by
+
 Maureen Robb, Director at Linn County Community Corrections
 
 Email at <a href="mailto:Maureen.M.Robb@doc.state.or.us"><img src="https://github.com/google/material-design-icons/raw/master/communication/1x_web/ic_email_black_48dp.png" width="24" /> Maureen.M.Robb@doc.state.or.us</a>

@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 In the past, Lincoln County Parole and Probation Department staffed its transition program with one full-time probation officer (PO). This PO oversaw a mixed caseload of offenders who were going to be released into the community, as well as offenders who had recently been released. Although the PO was able to coordinate among treatment providers, the offender, and the release counselor, the officer did not have sufficient capacity to develop detailed case plans prior to release or to follow through on the case plan after release. Critically, Lincoln County has limited housing resources for offenders transitioning back into the community.

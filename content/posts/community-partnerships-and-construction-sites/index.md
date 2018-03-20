@@ -11,15 +11,17 @@ tags:
     - Trespass
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Too often, community members are not informed of construction projects in their neighborhoods, in terms of who is in charge, the timeline for the project, and contact information. This makes residents feel disconnected from the project, does not foster a sense of ownership, and could increase the potential for illegal or suspicious activity at the site.
 Impact on the Community
 
-When problems arise at or near the construction site, such as suspicious activity, theft, vandalism, or other issues that may affect the neighborhood, community members do not know what to do or whether they should even get involved. The construction site can become an easy target for theft or vandalism, because neighbors are not acting as guardians. Such problems may even pose safety hazards that go unnoticed, such as unauthorized people entering the site and getting injured. 
+When problems arise at or near the construction site, such as suspicious activity, theft, vandalism, or other issues that may affect the neighborhood, community members do not know what to do or whether they should even get involved. The construction site can become an easy target for theft or vandalism, because neighbors are not acting as guardians. Such problems may even pose safety hazards that go unnoticed, such as unauthorized people entering the site and getting injured.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 City of Portland crime prevention coordinators are geographically assigned and work closely with people in their respective neighborhoods, providing crime prevention education and doing community organizing. The Construction Industry Crime Prevention Program (CICP) works with contractors on crime prevention and property recovery efforts. Both programs work in partnership with law enforcement. The third key partner in this effort is the community.

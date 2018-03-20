@@ -9,13 +9,16 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 Automobile accidents are the leading cause of death for Americans between the ages of 4 and 34, accounting for over 19,000 fatalities in 2003. Speeding is known to be one of the most frequent causes of driving fatalities. Damages from accidents costs approximately $230 billion per year in the US. One of the most common policies intended to increase roadway safety is police enforcement of speeding limits (through the use of fines, citations, and apprehension). However, the impact of this policy and whether it deters speeding or enhances roadway safety has not been studied in great depth.
 Response
 
 In this paper, the authors study the deterrence effects of highway patrol officers on roadway safety. The authors identify the effect of a change in enforcement by studying a mass layoff (35%) of state police in Oregon in 2003 due solely to budget cuts.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Primary Research Question
 
 What deterrence effects does police enforcement have on roadway safety?

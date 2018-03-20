@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 An average of 40 to 60 inmates are released from Oregon state prisons and return to Lane County every month. Upon release, approximately 50 percent are homeless and 90 percent are indigent and unemployed. Many have no personal supports, such as close family and friends. And most have no place to live, no money, no identification, and no source of immediate food—and not only do they lack a job, but often work experience as well.

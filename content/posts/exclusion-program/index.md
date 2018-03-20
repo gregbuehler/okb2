@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Law enforcement is often called to respond to complaints of disturbances or unwanted individuals on properties. In many cases the behavior of an individual or individuals has not risen to the level of arrest or citation, leaving the property owner or other controlling entity of a property without defense or effective recourse if persons return. These unwanted individuals can substantially cause negative effect for a business or other properties by their actions. Some examples of these negative behaviors are panhandling, hanging out at businesses and having no discernible legitimate purpose, creating a hostile environment for employees/customers, making unreasonable noise, or consuming alcohol on the premises.

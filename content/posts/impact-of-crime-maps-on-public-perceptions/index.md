@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 Law enforcement agencies are increasingly advised to, “establish a culture of transparency and accountability to build public trust and legitimacy” (Final Report of the President’s Task Force on 21st Century Policing). One of the things police agencies are doing to achieve this goal is to publish their crime statistics online. This includes aggregate crime counts and crime maps that allow people to visualize geographic patterns in local victimization. The assumption that increased access to this information will enhance public confidence in the police is largely untested. Similarly, crime statistics can be presented in different ways and we have little empirical knowledge about the impact of different strategies on public perceptions.

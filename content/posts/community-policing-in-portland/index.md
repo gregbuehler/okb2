@@ -8,15 +8,18 @@ tags:
     - Community Policing  
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 COMMUNITY NEED
 
 Portland Police Bureau instituted community policing in 1989 and quickly gained national recognition for its efforts. In 1999, with the arrival of a new police chief, certain decisions and directives led the public to scrutinize the police department and question its commitment to community policing. Additionally, successful community policing requires sustained effort over time. After more than a decade of implementation, the time was right to examine whether community policing had lived up to its promise, if it been fully implemented in the community and within the Police Bureau, what impact community policing had on public safety and the perception of safety by community members, and other questions.
+
 RESPONSE
 
 In 1989, Portland Mayor Bud Clark and the City Council passed two resolutions introducing community policing to Portland. Community policing is a philosophy that recognizes the shared responsibility of the police and community in making areas safer and more livable. It reflects the values of community participation, problem solving, officer involvement in decision-making, and police accountability. This report examines the implementation of community policing in Portland and concludes with a series of recommendations.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
+
 PRIMARY RESEARCH QUESTION
 
 The report describes community policing in Portland in great detail and discusses the following questions:
@@ -32,7 +35,9 @@ In order to present a snapshot of community policing as it existed in the last h
 LIMITATIONS
 
 There were no rigorous evaluations of community and police partnerships. The report does not demonstrate that community policing was the cause of the outcomes, as it does not control for other variables and reasons for the outcomes.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 RESEARCH FINDINGS
 
 Current state and challenges of implementing community policing:

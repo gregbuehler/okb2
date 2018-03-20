@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 Racial profiling is commonly defined as a situation where race is any one of the factors motivating an officer to stop, search, or arrest a person-of-color. Many law enforcement agencies define racial profiling with more specificity, referring to a situation when a decision is made where race is the only factor explaining a discretionary action. Research suggests there are methods, undetected interactions, and severe job pressures that might allow racial profiling to happen. Over the last 15 years or so, police in the Portland, Oregon metro area have been under intense examination for the fatal shootings of unarmed people-of-color.

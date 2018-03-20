@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Community Counseling Solutions, Tri-County Community Corrections, and the Gilliam County Sheriff’s Office (GCSO) have worked together closely over the years. However, the focus was not a fully integrated, collaborative, and comprehensive approach to meeting the needs of offenders with the end goal of reducing recidivism.

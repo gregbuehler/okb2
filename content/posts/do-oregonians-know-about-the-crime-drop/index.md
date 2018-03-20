@@ -9,13 +9,16 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 Research finds that beliefs about crime, fear of crime, and perceptions about the effectiveness of crime control measures have important consequences. Beliefs affect: (1) Legitimacy and trust in public officials and government institutions; (2) Compliance with the law and legal authority; and (3) Public empowerment of government (e.g. endorse passage of laws, budgets or levees).
 Response
 
 At the time this report was written in February 2011, Oregon’s violent and property crime rate trends were declining and were at their lowest level since the 1960’s. Researchers conducted a statewide survey in July 2010 in order to assess whether Oregonians believed crime across the state increased or decreased in the previous 12 months.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
+
 Primary Research Question
 
 Given Oregon’s prolonged downward trend in crime rates, researchers asked survey respondents whether they believed crime decreased across the state and in their local community. Researchers also asked respondents questions about their individual beliefs about crime, as well as their education level, income, and political beliefs.

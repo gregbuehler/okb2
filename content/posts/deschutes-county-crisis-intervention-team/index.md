@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 In 2011, local law enforcement in Deschutes County responded to more than 1,000 calls involving allegedly mentally ill subjects or police officer holds (when a police officer takes an individual to a facility, such as a hospital). In addition, the departments collectively responded to more than 500 reports flagged as mental health–related, with 71 percent of those people flagged as suicidal. The Bend Police Department responded to 891 mental health calls in 2012. Deschutes County Jail (DCJ) personnel estimate that approximately 25-30 percent of inmates are currently prescribed psychotropic medications. In 2012 the DCJ reported 66 emergency room visits for inmates requiring medical or behavioral health treatment or evaluation from ER staff; 46 inmates placed on behavioral health observation (threat of harm to self); and 119 calls for mental health for evaluations.

@@ -9,8 +9,8 @@ tags:
     - Justice Reinvestment
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 This program was developed as part of Justice Reinvestment, a statewide initiative to reduce prison use after a nearly 50 percent increase in Oregon’s prison rate from 2000 and 2010. In order to meet the goals of Justice Reinvestment, Columbia County sought to develop long term sustainable evidence-based programming to serve high risk/high need offenders under community supervision (including alternative incarceration programs), Short Term Transitional Leave applicants accepted by the county, offenders on probation, and offenders on post-prison supervision.

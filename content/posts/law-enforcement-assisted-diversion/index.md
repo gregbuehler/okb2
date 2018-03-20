@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Police officers routinely interact with people with mental health issues. Mental illness is a medical and social services problem, but a number of the problems caused by or associated with people with mental illness often become police problems. These include crimes, suicides, disorder and a variety of calls for service. Increasingly, Dallas Police Department officers are coming into contact with people with mental health issues.

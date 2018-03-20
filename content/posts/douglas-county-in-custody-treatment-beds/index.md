@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 Based on data the Criminal Justice Commission provided, probation revocations in Douglas County were up 8 percent in 2014-2015 in comparison to 2012-2013. The increased number of revocations appears to be directly related to an increase in the number of technical violations for cases that received downward dispositional departures (sentences less than a statutory mandatory minimum). Furthermore, the length of stay in prison for property and drug offenses has increased across the board for first sentences and probation revocations from 2014-2015. In particular, the average first-sentence length of stay increased by 60 percent from 15.3 months in 2012-2013 to 25 months in 2014-2015.

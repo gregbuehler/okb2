@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 It became evident in recent years that the Multnomah County Sheriff’s Office (MCSO) Patrol Unit’s response to service calls in the Columbia River Gorge and other wilderness locations was lacking. MCSO has had several law enforcement–related calls in recreational areas where the response of our normal Search & Rescue (SAR) resources should not be called upon as a primary responder (though perhaps to assist with some calls). Incidents have included people who are suicidal, particularly in the Columbia River Gorge Scenic Area, and escapees or other suspects who enter wilderness areas and present a potential threat to the recreational community. (A number of suspects with felony warrants run from deputies into wilderness areas and SAR volunteers have encountered wanted subjects, as well as marijuana grows.).

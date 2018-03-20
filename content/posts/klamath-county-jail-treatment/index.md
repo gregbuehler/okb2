@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 For many years, Klamath County’s public safety agencies have suffered from severe budget cuts, resulting in downsizing and reduced services. The Klamath County Jail was reduced from 154 jail beds to 56 beds in July 2010. Although 44 beds were reopened in 2011, the county’s needs are not being met.

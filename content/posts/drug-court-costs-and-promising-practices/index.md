@@ -9,10 +9,13 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 The economic and other societal consequences of harmful substance use are well documented. Untreated substance-use disorders generate costs to the individual, health systems, and taxpayers. The link between substance use and criminal behavior is well researched and the fiscal impact on the criminal justice system is profound. In Oregon (and in many other states), the costs of drug arrests have put a financial burden on the state’s trial courts. One of the efforts to address these issues has been through drug court programs. Drug courts are a proven and effective way to increase substance abuse treatment retention rates; and drug courts have been shown to be effective in reducing recidivism. However, drug court programs can require a large monetary investment. Oregon operates dozens of drug court programs, but very few comprehensive studies have been conducted on individual courts or on a statewide basis to determine the costs and benefits of these programs. Policymakers and program administrators need this information if they are to make informed decisions concerning the allocation of funds and the best ways for these innovative programs to meet Oregon’s needs.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Primary Research Question
 
 Are adult drug courts in Oregon cost-beneficial? Which practices in Oregon’s drug courts are related to better program outcomes—i.e., higher graduation rates, lower recidivism, and greater savings for taxpayers?

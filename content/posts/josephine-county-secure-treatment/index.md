@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 In the first half of 2014, 246 untreated high- and medium-risk offenders were under the jurisdiction of Josephine County Community Corrections. Many untreated offenders are in a pre-contemplative stage of change, resistant to participating in traditional outpatient treatment, and routinely violate the conditions of their supervision, earning an appropriate response of jail for their noncompliance. Upon incarceration in jail through the sanctioning process, offenders typically don’t receive treatment and often abscond or fail to report to treatment upon release. For antisocial and pro-criminal offenders, jail alone is often ineffective for making lasting, meaningful long-term behavioral change . Introducing treatment while people are in jail increases the likelihood of prompting behavior change upon release.

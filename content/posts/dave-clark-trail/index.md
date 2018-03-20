@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 The Dave Clark Trail is an underused City Parks & Recreation Department trail in Albany. The trail is the subject of recurring patrol calls that include drinking, drug use, suspicious circumstances/people, and camping. There is a perception in the community that the trail is unsafe. It runs parallel to the Willamette River, as well as Albany’s downtown businesses and residential housing. The paved trail begins at Monteith Park, which hosts summer concerts and activities, next to the Albany Senior Center. The trail is approximately 1.5 miles long and ends at Sherman Street in a residential neighborhood.

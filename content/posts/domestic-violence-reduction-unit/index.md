@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 In 1989, the Portland Police Bureau adopted and committed to implementing community policing. In 1992, extensive discussions with community representatives identified the need to break the cycle of family and domestic violence, in order to decrease victims and ultimately benefit at-risk youth. In collaboration with others, the police developed a plan to reduce domestic violence. The plan had two goals: to increase the formal consequences for batterers and to empower victims.

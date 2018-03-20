@@ -11,6 +11,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
  In 2010, Yamhill County was one of seven sites selected for the National Institution of Corrections (NIC) Evidence-Based Decision Making (EBDM) initiative. EBDM is a systems approach to consider ways to improve local criminal justice systems and policy through partner collaboration, data collection, and analysis. The EBDM framework is based on four main principles:
 
     Look to research and local data to guide making decisions.

@@ -10,8 +10,8 @@ tags:
     - Justice Reinvestment
 ---
 
-
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 This program was developed as part of Justice Reinvestment, a statewide initiative to reduce prison use after a nearly 50 percent increase in Oregon’s incarceration rate from 2000 to 2010. As part of this effort, Clatsop County identified the need for focused services that prioritize those who are at medium to high risk, have received a downward departure sentence, and/or have not previously succeeded on traditional probation.

@@ -1,7 +1,7 @@
 ---
 title: "Benton County Drug Court"
 cover: "/logos/research.png"
-author: "benton"
+author: "okb"
 date: "04/07/2016"
 slug: "benton-drug-court"
 category: "Research"

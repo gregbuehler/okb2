@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 In the 1980s, accepted practices rose out of the widely accepted theory that “arrest works best” for reducing recidivism in misdemeanor domestic violence (DV) cases. However, a collection of studies supported by the National Institute of Justice revealed that mandatory arrest policies were, at best, producing mixed results and, at worst, not working at all. From this, police departments began looking for new strategies to combat DV. For some agencies this led to the creation of specialized units. Research on these units has historically been limited and mixed regarding success, resulting in this particular study attempting to examine a number of possible factors affecting recidivism. These factors include the creation of a DV unit which provided a multi-faceted community response to DV cases, which included enhanced investigation and victim assistance.

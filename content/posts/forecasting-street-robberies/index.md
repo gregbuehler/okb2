@@ -11,6 +11,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 COMMUNITY NEED
 
 Risk Terrain Modeling (RTM) was developed to assess risk geographically through the creation of a composite risk map. RTM builds off of hotspot mapping, which is the practice of identifying areas with high concentrations of crime to predict the location of future crimes. The hotspot perspective suggests that crime is not evenly dispersed, but instead concentrated in small areas or hotspots. RTM goes beyond just identifying the locations of crime clusters. It identifies future locations that are conducive for a particular crime based on the changing environmental characteristics. This allows for a more proactive response to the crime. RTM builds off ideas from environmental criminology, problem-oriented policing, and hotspot mapping.

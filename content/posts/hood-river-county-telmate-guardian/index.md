@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 When managing high caseloads, parole and probation officers lack the time and resources to provide enough supervision to those offenders with the highest risk and need.
@@ -18,7 +19,9 @@ In contrast, over-supervising low-risk offenders may actually cause them to resp
 Impact on the Community
 
 When offenders are not appropriately supervised to their level of risk and need, they are more likely to recidivate, resulting in increased victimization in the community.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 Telmate Guardian is a low-cost offender monitoring application that can be installed on any smartphone. Offenders receive random prompts to “check-in” by video, which is immediately available for review. The frequency of check-ins is set by the case manager and can be triggered manually at any time. The app also features GPS monitoring and comes with software to track and log all check-ins.

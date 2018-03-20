@@ -11,6 +11,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 In 2013, the Redmond Police Department conducted a comparison of calls for service and police contacts with regards to three city parks: Sam Johnson, Quince, and American Legion. Sam Johnson Park had 59.8% of the activity for calls in the major parks in the City of Redmond. Calls mentioned criminal mischief and assault along with alcohol, tobacco, and drug use (mostly marijuana). These mainly involved juveniles between the ages of 13-20. The pavilion in the middle of the park was mentioned 52 times, or in 25.8% of the calls. The pavilion is a gathering point for people in the park, especially groups of juveniles. Problems in the park may be furthermore instigated due to it being surrounded by a high concentration of low income residential complexes, along with it being a shortcut for the surrounding residences to downtown and it being a central park surrounded by the canyon, skate park, field, etc.

@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 Drug treatment courts are an innovative approach to dealing with substance abuse and its consequences in communities. Drug court programs have proven to be effective for increasing treatment participation and decreasing criminal recidivism. In 2006, Washington County expanded their existing drug treatment program to include women with children. The Washington County Women and their Children Drug Treatment Court (WCWCDTC) serves parents who use methamphetamine and whose children have been removed, or are at risk of being removed, from their home as a result of criminal activity and child neglect. This report is a process evaluation for the second year (2007-2008) of the WCWCDTC. As drug court programs expand and target different populations, it is critical to ensure that the expansions continue to follow best practices and standards.

@@ -9,7 +9,8 @@ tags:
 ---
 
 
-## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") 
+
 Problematic Behavior or Activity
 
 Curry County Community Corrections analyzed a snapshot of the completed Level of Service/Case Management Inventory (LS/CMI) assessments among adults countywide to identify the areas of highest need. The data indicated that alcohol and other drug problems were the highest need; second was antisocial personality; and criminal companions and pro-criminal attitudes were tied for the third-highest need.

@@ -9,6 +9,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Community Need
 
 Familiarity with and the popularity of community policing appears to be quite extensive throughout the police profession. However, the literature indicates that efforts to incorporate the community policing model into traditional policing operations are faltering. Community policing commentators and analysts agree that the endurance of community policing will depend upon the extent to which it becomes both philosophically and operationally integrated with routine police operations.

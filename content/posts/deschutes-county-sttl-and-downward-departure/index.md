@@ -10,6 +10,7 @@ tags:
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+
 Problematic Behavior or Activity
 
 This program was developed as part of a statewide effort to reduce prison utilization following a nearly 50% increase in Oregon’s prison rate between 2000 and 2010. Without the resources to supervise higher-risk property and drug offenders safely in the community, as well as a process for communication between the District Attorney’s office and Parole and Probation, Deschutes County was sending a greater number of offenders to prison each year. In addition, they were unable to accept as many Short Term Trans Leave applicants due to a lack of resources, particularly housing.
