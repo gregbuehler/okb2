@@ -29,7 +29,7 @@ const queries = [
 ];
 
 require('dotenv').config({
-  path: `.env.${process.env.NODE_ENV}`
+  path: `${__dirname}/.env`
 });
 
 module.exports = {
@@ -52,7 +52,7 @@ module.exports = {
       resolve: `gatsby-plugin-algolia`,
       options: {
         appId: 'V96W9H8OQK',
-        apiKey: 'process.env.ALGOLIA_API',
+        apiKey: process.env.ALGOLIA_API,
         indexName: 'test_OKB',
         queries,
         chunkSize: 10000, // default: 10000
