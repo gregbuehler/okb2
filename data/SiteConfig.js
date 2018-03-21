@@ -15,9 +15,9 @@ module.exports = {
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "OKB", // The author name used in the `R`SS file
-  // siteFBAppID: "1825356251115265", // optional, sets the FB Application ID for using app insights
+  // siteFBAppID: "", // optional, sets the FB Application ID for using app insights
   sitePaginationLimit: 25, // The max number of posts per page.
-  googleAnalyticsID: "UA-115720201-1", // GA tracking ID.
+  googleAnalyticsID: `${process.env.GOOGLE_ANALYTICS}`, // GA tracking ID.
   siteSocialUrls: [
     "https://github.com/alexpichel/okb2",
     "https://twitter.com/ORKnowledgeBank",
