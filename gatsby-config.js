@@ -29,7 +29,7 @@ const queries = [
 ];
 
 require('dotenv').config({
-  path: `${__dirname}/.env`
+  path: `$/.env`
 });
 
 module.exports = {
