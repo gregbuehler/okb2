@@ -1,7 +1,7 @@
 ---
 title: "Mobile Crisis Response Team"
 cover: "/logos/policing.png"
-author: "okb"
+author: "marion-s"
 date: "02/07/2017"
 category: "Policing"
 tags:
