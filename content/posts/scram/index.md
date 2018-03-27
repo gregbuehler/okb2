@@ -1,7 +1,7 @@
 ---
 title: "Security Camera Registration and Mapping (SCRAM)"
 cover: "/logos/policing.png"
-author: "okb"
+author: "medford-pd"
 date: "04/25/2016"
 category: "Policing"
 tags:

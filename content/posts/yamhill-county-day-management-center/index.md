@@ -1,7 +1,7 @@
 ---
 title: "Yamhill County Day Management Center"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "yamhill-dcj"
 date: "02/18/2016"
 category: "Correctional"
 tags:

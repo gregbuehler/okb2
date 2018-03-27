@@ -1,7 +1,7 @@
 ---
 title: "Yamhill Street Vacant Property"
 cover: "/logos/policing.png"
-author: "okb"
+author: "gresham-pd"
 date: "12/03/2015"
 category: "Policing"
 tags:

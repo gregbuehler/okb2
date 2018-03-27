@@ -1,7 +1,7 @@
 ---
 title: "Portland Police Bureau Behavioral Health Unit"
 cover: "/logos/policing.png"
-author: "okb"
+author: "ppb"
 date: "05/02/2016"
 category: "Policing"
 tags:

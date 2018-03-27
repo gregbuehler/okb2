@@ -1,7 +1,7 @@
 ---
 title: "Yamhill County Pretrial Justice Program"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "yamhill-dcj"
 date: "02/25/2016"
 category: "Correctional"
 tags:

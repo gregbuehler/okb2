@@ -1,7 +1,7 @@
 ---
 title: "Sex Offender Monitoring and Compliance"
 cover: "/logos/policing.png"
-author: "okb"
+author: "medford-pd"
 date: "02/04/2016"
 category: "Policing"
 tags:

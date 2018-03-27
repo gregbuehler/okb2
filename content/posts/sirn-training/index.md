@@ -1,7 +1,7 @@
 ---
 title: "System Integration and Resource Network (SIRN) Training"
 cover: "/logos/policing.png"
-author: "okb"
+author: "mult-dcj"
 date: "12/01/2015"
 category: "Policing"
 tags:

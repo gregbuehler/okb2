@@ -1,7 +1,7 @@
 ---
 title: "Student Opportunity for Achieving Results (SOAR)"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "marion-pp"
 date: "04/13/2016"
 category: "Correctional"
 tags:

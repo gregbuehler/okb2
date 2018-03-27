@@ -1,7 +1,7 @@
 ---
 title: "Special Response Fee Notice"
 cover: "/logos/policing.png"
-author: "okb"
+author: "corvallis-pd"
 date: "10/08/2015"
 category: "Policing"
 tags:

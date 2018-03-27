@@ -1,7 +1,7 @@
 ---
 title: "Yamhill County Court-Automated Notification System"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "yamhill-dcj"
 date: "05/02/2016"
 category: "Correctional"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Transgender Booking Policy"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "mult-s"
 date: "12/01/2015"
 category: "Correctional"
 tags:

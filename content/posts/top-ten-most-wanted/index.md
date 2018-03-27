@@ -1,7 +1,7 @@
 ---
 title: "Top Ten Most Wanted"
 cover: "/logos/policing.png"
-author: "okb"
+author: "salem-pd"
 date: "12/04/2015"
 category: "Policing"
 tags:

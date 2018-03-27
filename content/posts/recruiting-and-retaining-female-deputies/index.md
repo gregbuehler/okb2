@@ -1,7 +1,7 @@
 ---
 title: "Recruiting and Retaining Female Deputies"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "jackson-s"
 date: "06/02/2016"
 category: "Correctional"
 tags:

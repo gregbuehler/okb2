@@ -1,7 +1,7 @@
 ---
 title: "Yamhill County SMART Sentencing Initiative"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "yamhill-dcj"
 date: "02/17/2016"
 category: "Correctional"
 tags:
