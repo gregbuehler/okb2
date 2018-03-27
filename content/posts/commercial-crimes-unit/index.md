@@ -1,7 +1,7 @@
 ---
 title: "Commercial Crimes Unit"
 cover: "/logos/policing.png"
-author: "okb"
+author: "tigard-pd"
 date: "03/16/2016"
 slug: "commercial-crimes-unit"
 category: "Policing"

@@ -1,7 +1,7 @@
 ---
 title: "Multnomah County Justice Reinvestment Program (MCJRP)"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "mult-dcj"
 date: "11/20/2015"
 category: "Correctional"
 tags:

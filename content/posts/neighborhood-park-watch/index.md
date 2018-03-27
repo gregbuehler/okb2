@@ -1,7 +1,7 @@
 ---
 title: "Neighborhood Park Watch"
 cover: "/logos/policing.png"
-author: "okb"
+author: "lebanon-pd"
 date: "09/22/2015"
 category: "Policing"
 tags:

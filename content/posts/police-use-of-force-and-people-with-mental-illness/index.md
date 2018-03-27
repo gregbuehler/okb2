@@ -1,7 +1,7 @@
 ---
 title: "Police Use of Force and People with Mental Illness"
 cover: "/logos/research.png"
-author: "okb"
+author: "ppb"
 date: "11/30/2015"
 category: "Research"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Nuisance Intervention Team (NIT)"
 cover: "/logos/policing.png"
-author: "okb"
+author: "grants-pass-pd"
 date: "09/22/2015"
 category: "Policing"
 tags:

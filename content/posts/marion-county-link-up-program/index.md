@@ -1,7 +1,7 @@
 ---
 title: "Marion County Link Up Program"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "marion-pp"
 date: "02/07/2017"
 category: "Correctional"
 tags:

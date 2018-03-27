@@ -1,7 +1,7 @@
 ---
 title: "Clackamas County Lethality Assessment Program"
 cover: "/logos/policing.png"
-author: "okb"
+author: "clackamas-s"
 date: "10/22/2015"
 slug: "lethality-assessment-program"
 category: "Policing"

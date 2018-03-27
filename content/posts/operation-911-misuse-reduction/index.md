@@ -1,7 +1,7 @@
 ---
 title: "Operation 911 Misuse Reduction"
 cover: "/logos/policing.png"
-author: "okb"
+author: "keizer-pd"
 date: "09/22/2015"
 category: "Policing"
 tags:

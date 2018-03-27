@@ -1,7 +1,7 @@
 ---
 title: "Crook County STTL/ Downward Departure Specialized Caseload"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "crook-s"
 date: "11/02/2015"
 category: "Correctional"
 tags:

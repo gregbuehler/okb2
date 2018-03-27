@@ -1,7 +1,7 @@
 ---
 title: "Operational Analysis of Clearview and Partridge Apartments"
 cover: "/logos/policing.png"
-author: "okb"
+author: "keizer-pd"
 date: "10/19/2015"
 category: "Policing"
 tags:

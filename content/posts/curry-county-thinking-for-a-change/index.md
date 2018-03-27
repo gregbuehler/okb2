@@ -1,7 +1,7 @@
 ---
 title: "Curry County Thinking for a Change"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "curry-s"
 date: "07/20/2016"
 category: "Correctional"
 tags:

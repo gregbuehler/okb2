@@ -1,7 +1,7 @@
 ---
 title: "Naloxone Deployment"
 cover: "/logos/policing.png"
-author: "okb"
+author: "medford-pd"
 date: "10/19/2015"
 category: "Policing"
 tags:

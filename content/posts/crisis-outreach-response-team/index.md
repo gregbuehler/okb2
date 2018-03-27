@@ -1,7 +1,7 @@
 ---
 title: "Crisis Outreach Response Team (CORT)"
 cover: "/logos/policing.png"
-author: "okb"
+author: "marion-s"
 date: "09/17/2015"
 category: "Policing"
 tags:

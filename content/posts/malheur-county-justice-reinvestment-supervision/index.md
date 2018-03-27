@@ -1,7 +1,7 @@
 ---
 title: "Malheur County Justice Reinvestment Supervision"
 cover: "/logos/correctional.png"
-author: "okb"
+author: "malheur-s"
 date: "12/04/2015"
 category: "Correctional"
 tags:
