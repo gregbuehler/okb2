@@ -1,7 +1,7 @@
 ---
 title: "Umatilla County Domestic Violence Supervision"
 cover: "/logos/correctional.png"
-author: "umatilla-cc"
+author: "umatilla-s"
 date: "01/28/2016"
 category: "Correctional"
 tags:

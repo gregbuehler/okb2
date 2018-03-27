@@ -1,7 +1,7 @@
 ---
 title: "Marion County Jail Reentry Program"
 cover: "/logos/correctional.png"
-author: "marion-pp"
+author: "marion-s"
 date: "12/12/2016"
 category: "Correctional"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Tillamook County Intensive Outpatient Treatment"
 cover: "/logos/correctional.png"
-author: "tillamook-cc"
+author: "tillamook-s"
 date: "04/18/2016"
 category: "Correctional"
 tags:

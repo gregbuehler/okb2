@@ -1,7 +1,7 @@
 ---
 title: "Neighborhood Watch Programs"
 cover: "/logos/research.png"
-author: "u-of-o"
+author: "uofo-pd"
 date: "11/30/2015"
 category: "Research"
 tags:
